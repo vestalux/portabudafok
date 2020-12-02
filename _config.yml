@@ -1,6 +1,6 @@
 # Site settings
 # Site title
-title: Palack Postás
+title: Porta
 
 # Site description
 description: A kaland házhoz jön
@@ -27,10 +27,10 @@ subscribe:
 # Social media links
 # (This can be commented out if not required.)
 social:
-  facebook: "#"
+  facebook: "portabudafok"
   twitter: "#"
   google: "#"
-  instagram: "#"
+  instagram: "portabudafok"
   pinterest: "#"
   snapchat: "#"
   linkedin: "in/#"
