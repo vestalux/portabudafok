@@ -28,12 +28,12 @@ subscribe:
 # (This can be commented out if not required.)
 social:
   facebook: "portabudafok"
-  twitter: "#"
-  google: "#"
+  twitter: ""
+  google: ""
   instagram: "portabudafok"
-  pinterest: "#"
-  snapchat: "#"
-  linkedin: "in/#"
+  pinterest: ""
+  snapchat: ""
+  linkedin: ""
 
 # Build settings
 markdown: kramdown
